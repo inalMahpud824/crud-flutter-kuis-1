@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Before you running in local, first install depedencie with
+```flutter pub get```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
